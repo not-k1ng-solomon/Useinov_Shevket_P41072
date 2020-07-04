@@ -40,4 +40,5 @@ ______________________________________________________________________
 [FRMW_005](https://kodaktor.ru/jsmixer_806c1)
 
 ______________________________________________________________________
-[YOU](https://kodaktor.ru/jsmixer_806c1)
+[YOU код](https://github.com/not-k1ng-solomon/Useinov_Shevket_P41072/tree/master/you)
+[YOU развернутая версия](https://not-k1ng-solomon.github.io/)
