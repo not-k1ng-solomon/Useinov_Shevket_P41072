@@ -2,6 +2,9 @@
 
 # Усеинов Шевкет P41072
 
+[CART](https://kodaktor.ru/4efdfd6)
+
+_____________________________________________________________________
 [func1](https://kodaktor.ru/task_func_3fec6)
 
 [func2](https://kodaktor.ru/func_2ebcb)
@@ -43,3 +46,4 @@ ______________________________________________________________________
 [YOU код](https://github.com/not-k1ng-solomon/Useinov_Shevket_P41072/tree/master/you)
 
 [YOU развернутая версия](https://not-k1ng-solomon.github.io/)
+
