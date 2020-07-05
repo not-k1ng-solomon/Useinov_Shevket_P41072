@@ -5,25 +5,25 @@
 [CART](https://kodaktor.ru/4efdfd6)
 
 _____________________________________________________________________
-[func1](https://kodaktor.ru/task_func_3fec6)
+[FUNC-001](https://kodaktor.ru/task_func_3fec6)
 
-[func2](https://kodaktor.ru/func_2ebcb)
+[FUNC-002](https://kodaktor.ru/func_2ebcb)
 
-[func3](https://kodaktor.ru/func_61d59)
+[FUNC-003](https://kodaktor.ru/func_61d59)
 
-[func4](https://kodaktor.ru/func_a69fb)
+[FUNC-004](https://kodaktor.ru/func_a69fb)
 
-[func5](https://kodaktor.ru/func_6a09e)
+[FUNC-005](https://kodaktor.ru/func_6a09e)
 
-[func6](https://kodaktor.ru/func_f6216)
+[FUNC-006](https://kodaktor.ru/func_f6216)
 
-[func7](https://kodaktor.ru/func_d566b)
+[FUNC-007](https://kodaktor.ru/func_d566b)
 
-[func8](https://kodaktor.ru/func_9ad39)
+[FUNC-008](https://kodaktor.ru/func_9ad39)
 
-[func9](https://kodaktor.ru/func_aad80)
+[FUNC-009](https://kodaktor.ru/func_aad80)
 
-[func10](https://kodaktor.ru/func_8f3c2)
+[FUNC-010](https://kodaktor.ru/func_8f3c2)
 
 ____________________________________________________________________
 
